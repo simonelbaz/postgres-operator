@@ -5,4 +5,3 @@ resources:
 - operator-service-account-rbac.yaml
 - postgres-operator.yaml
 - api-service.yaml
-- complete-postgres-manifest.yaml
