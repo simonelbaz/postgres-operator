@@ -56,7 +56,7 @@ spec:
 #    value: my-custom-bucket
 
   volume:
-    size: 1Gi
+    size: 7Gi
     storageClass: rook-ceph-block
 #    iops: 1000  # for EBS gp3
 #    throughput: 250  # in MB/s for EBS gp3
